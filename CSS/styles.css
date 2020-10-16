@@ -21,6 +21,7 @@
   box-sizing: border-box;
 }
 .about-me {
+  font-size: 25px;
   border-style: groove;
   border-color: rgba(42, 82, 90, 0.5);
   margin: 5px;
@@ -28,6 +29,7 @@
   border-width: 10px;
 }
 .background {
+  font-size: 25px;
   border-style: groove;
   border-color: rgba(36, 73, 80, 0.5);
   margin: 5px;
@@ -35,6 +37,7 @@
   border-width: 10px;
 }
 .interests {
+  font-size: 25px;
   border-style: groove;
   border-color: rgba(26, 51, 56, 0.5);
   margin: 5px;
@@ -42,6 +45,7 @@
   border-width: 10px;
 }
 .summary {
+  font-size: 25px;
   border-style: groove;
   border-color: rgba(19, 37, 41, 0.5);
   margin: 5px;
