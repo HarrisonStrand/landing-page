@@ -11,9 +11,9 @@ typography, cascading, box model and floats.
 
 ## Setup
 #### View Online
-* visit: https://github.com/HarrisonStrand/landing-page
+* visit: https://harrisonstrand.github.io/landing-page
 #### Open Locally
-1. Navigate to https://github.com/HarrisonStrand/landing-page 
+1. Navigate to https://github.com/HarrisonStrand/landing-page
 2. Click on the green 'Code' button and copy the repository HTTPS URL
 3. (a) Open your machine terminal and type in the command 'git clone 
 https://github.com/HarrisonStrand/landing-page.git' in the directory you would like to clone the repository.
