@@ -1,3 +1,48 @@
 p {
   text-indent: 25px;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.projects {
+border-style: solid;
+border-color: rgba(50, 96, 105, 0.5);
+margin: 5px;
+padding: 10px;
+border-width: 10px;
+}
+.about-me {
+border-style: solid;
+border-color: rgba(50, 96, 105, 0.5);
+margin: 5px;
+padding: 10px;
+border-width: 10px;
+}
+.background {
+border-style: solid;
+border-color: rgba(50, 96, 105, 0.5);
+margin: 5px;
+padding: 10px;
+border-width: 10px;
+}
+.interests {
+border-style: solid;
+border-color: rgba(50, 96, 105, 0.5);
+margin: 5px;
+padding: 10px;
+border-width: 10px;
+}
+.summary {
+border-style: solid;
+border-color: rgba(50, 96, 105, 0.5);
+margin: 5px;
+padding: 10px;
+border-width: 10px;
+}
+.music {
+border-style: solid;
+border-color: rgba(50, 96, 105, 0.5);
+margin: 5px;
+padding: 10px;
+border-width: 10px;
 }
