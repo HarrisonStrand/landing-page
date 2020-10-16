@@ -1,18 +1,6 @@
-body {
-  margin: 50px;
-  border-style: groove;
-  border-color: rgba(50, 96, 105, 0.5);
-  margin: 0px;
-  border-width: 8px;
-  box-sizing: border-box; 
-}
-p {
-  text-indent: 25px;
-  font-size: 20px;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
 .selfie {
   width: 49%;
+  height: 10%;
   border-style: groove;
   border-color: rgba(50, 96, 105, 0.5);
   margin: 5px;
@@ -23,6 +11,7 @@ p {
 }
 .projects {
   width: 49%;
+  height: 10%;
   border-style: groove;
   border-color: rgba(50, 96, 105, 0.5);
   margin: 5px;
@@ -32,40 +21,48 @@ p {
   box-sizing: border-box;
 }
 .about-me {
-border-style: groove;
-border-color: rgba(42, 82, 90, 0.5);
-margin: 5px;
-padding: 10px;
-border-width: 10px;
+  border-style: groove;
+  border-color: rgba(42, 82, 90, 0.5);
+  margin: 5px;
+  padding: 10px;
+  border-width: 10px;
 }
 .background {
-border-style: groove;
-border-color: rgba(36, 73, 80, 0.5);
-margin: 5px;
-padding: 10px;
-border-width: 10px;
+  border-style: groove;
+  border-color: rgba(36, 73, 80, 0.5);
+  margin: 5px;
+  padding: 10px;
+  border-width: 10px;
 }
 .interests {
-border-style: groove;
-border-color: rgba(26, 51, 56, 0.5);
-margin: 5px;
-padding: 10px;
-border-width: 10px;
+  border-style: groove;
+  border-color: rgba(26, 51, 56, 0.5);
+  margin: 5px;
+  padding: 10px;
+  border-width: 10px;
 }
 .summary {
-border-style: groove;
-border-color: rgba(19, 37, 41, 0.5);
-margin: 5px;
-padding: 10px;
-border-width: 10px;
+  border-style: groove;
+  border-color: rgba(19, 37, 41, 0.5);
+  margin: 5px;
+  padding: 10px;
+  border-width: 10px;
 }
 .music {
-border-style: groove;
-border-color: rgba(10, 20, 22, 0.5);
-margin: 5px;
-padding: 10px;
-border-width: 10px;
+  border-style: groove;
+  border-color: rgba(10, 20, 22, 0.5);
+  margin: 5px;
+  padding: 10px;
+  border-width: 10px;
 }
 .column {
   float: left;
+}
+p {
+  text-indent: 25px;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.h em {
+  font-size: 30px;
 }
