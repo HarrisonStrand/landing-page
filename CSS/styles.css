@@ -121,3 +121,22 @@ h1 {
 .projects p {
   font-size: 23.5px;
 }
+.summary a {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.summary p {
+  font-size: 15px;
+  text-indent: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.music {
+  font-size: 15px;
+  line-height: 30px;
+  text-indent: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h5 {
+  font-size: 20px;
+  line-height: 10px;
+}
