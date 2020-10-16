@@ -11,7 +11,7 @@ typography, cascading, box model and floats.
 
 ## Setup
 #### View Online
-* visit: https://harrisonstrand.github.io/landing-page
+* visit: https://harrisonstrand.github.io/landing-page/
 #### Open Locally
 1. Navigate to https://github.com/HarrisonStrand/landing-page
 2. Click on the green 'Code' button and copy the repository HTTPS URL
