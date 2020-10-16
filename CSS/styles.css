@@ -1,6 +1,6 @@
 .selfie {
   width: 49%;
-  height: 10%;
+  height: auto;
   border-style: groove;
   border-color: rgba(50, 96, 105, 0.5);
   margin: 5px;
@@ -63,6 +63,61 @@ p {
   font-size: 20px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.h em {
+h4 em {
   font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background:linear-gradient(275deg, rgba(34,193,195,1) 0%, rgb(184, 210, 228) 100%);
+  border-style: inset;
+  border-color: rgba(42, 82, 90, 0.5);
+  border-radius: 5px;
+  padding: 5px;
+}
+h4 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 25px;
+}
+.extra {
+  color: white;
+  background:linear-gradient(275deg, rgba(31,207,191,1) 0%, rgba(39,49,205,1) 62%, rgba(89,13,122,1) 100%);
+  border-style: inset;
+  border-color: rgba(42, 82, 90, 0.5);
+  border-radius: 5px;
+  padding: 2px;
+}
+.extra2 {
+  background:linear-gradient(275deg, rgba(34,193,195,1) 0%, rgb(184, 210, 228) 100%);
+  border-style: inset;
+  border-color: rgba(42, 82, 90, 0.5);
+  border-radius: 5px;
+  padding: 2px;
+}
+h3 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+  font-size: 50px;
+  text-align: center;
+  background:linear-gradient(275deg, rgb(39, 233, 236) 0%, rgb(20, 103, 197) 100%);
+  border-style: groove;
+  border-color: rgba(42, 82, 90, 0.5);
+  border-radius: 5px;
+  padding: 2px;
+}
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+  font-size: 50px;
+  text-align: center;
+  background:linear-gradient(275deg, rgb(39, 233, 236) 0%, rgb(20, 103, 197) 100%);
+  border-style: groove;
+  border-color: rgba(42, 82, 90, 0.5);
+  border-radius: 5px;
+  padding: 2px;
+}
+.projects a {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 30px;
+}
+.projects p {
+  font-size: 23.5px;
 }
